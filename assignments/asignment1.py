@@ -5,7 +5,7 @@ import seaborn as sns
 # --- 1. Data Loading ---
 print("--- Data Loading ---")
 try:
-    df = pd.read_csv(r'C:\Users\Pushpalatha A\OneDrive\Desktop\Samson\Wine_Quality_Data.csv')
+    df = pd.read_csv(r'C:\Users\OneDrive\Desktop\Samson\Wine_Quality_Data.csv')
     print("Dataset loaded successfully. First 5 rows:")
     print(df.head())
     print("\nDataset Info:")
