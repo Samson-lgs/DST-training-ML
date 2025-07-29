@@ -1,1 +1,0 @@
-print("Samson's code")
